@@ -1,6 +1,4 @@
 # Git vs GitHub: A Coparison of Features and Functionalities
-# Git is a distributed version control system that allows developers to track changes in their codebase, collaborate with others, and manage different versions of their projects. It is primarily used for local development and version control.
-# GitHub, on the other hand, is a web-based platform that provides hosting for Git  repositories, along with additional features for collaboration, project management, and social coding. It allows developers to share their code with others, contribute to open-source projects, and manage issues and pull requests.
 
 Here are some key differences between Git and GitHub:
 1. Functionality:
